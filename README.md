@@ -1,4 +1,6 @@
 # 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 🌱 I’m currently learning React, Vue.js, Angular ....<br><br>👨‍💻 All of my projects are available at https://fetouaki-younes.netlify.app<br><br>💬 Ask me about React, Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, JWT Authentication, C, Python.<br><br>📫 How to reach me younesfetouaki65@gmail.com<br><br>📄 Know about my experiences https://res.cloudinary.com/dec4mifcv/image/upload/v1718842792/PORTFOLIO%20RESUME/lx0uc7lvv3msa3xdzkqa.png
 
 
