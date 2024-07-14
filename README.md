@@ -32,4 +32,5 @@
 [![](https://visitcount.itsvg.in/api?id=YounesFetouaki&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## oh no a snake is eating my contributions !!!!!
-![snake gif](https://github.com/YounesFetouaki/YounesFetouaki/blob/output/github-contribution-grid-snake.svg)
+
+<img alt="snake eating my contributions" src="https://github.com/YounesFetouaki/YounesFetouaki/blob/output/github-contribution-grid-snake.svg"/>
